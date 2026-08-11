@@ -21,6 +21,7 @@ temp = temp.next;
             if(i == count/2){
                 
                 head = tempp;
+                break;
             }
             tempp = tempp.next;
         }
